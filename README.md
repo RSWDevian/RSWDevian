@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D-Jester
 - 👀 I’m interested in ...ml & web dev
-- 🌱 I’m currently learning ...Web dev
+- 🌱 I’m currently learning ...AI ML
 - 💞️ I’m looking to collaborate on ...Web dev and ml
 - 📫 How to reach me ...
 
