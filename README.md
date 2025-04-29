@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Abhirup Guha Roy<br>Mechanical Engineer | Mechatronics | Blockchain | MERN | Web3 | Algorithms
+Hey there, I'm Abhirup Guha Roy<br>Mechanical Engineer | Mechatronics | Blockchain | MERN | Web3 | Qt App Development
 
 
 ## 🌐 Socials:
