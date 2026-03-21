@@ -1,7 +1,7 @@
 <!-- Meet -->
 #  Hi, I'm Abhirup Guha Roy  
 
-###  Engineer | Technical Coordinator @ JUMTC | Mechatronics • AI/ML • Web3 • Systems 
+###  AI/ML • Web3 • Systems 
 
 I'm an engineer pasionate about building intelligent systems that merge **Robotics**, **AI/ML**, **Web3**, **System Engineering** and **Simulation**.
 
