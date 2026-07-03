@@ -1,11 +1,9 @@
 <!-- Meet -->
 #  Hi, I'm Abhirup Guha Roy  
 
-###  Robotics Architect | AI Engineer | Systems Engineer
+###  Robotics • AI • Backend Systems • Autonomous Navigation • Systems
 
-I'm an engineer pasionate about building intelligent systems that merge **Robotics**, **AI/ML**, **Web3**, **System Engineering** and **Simulation**.
-
-As the **Technical Coordinator of JUMTC(Jadavpur University MEchatronics Club)**, I lead and mentor teams working on ambitious projects in **rovers**, **drones**, **ABR**, **AUV** and other intelligent platforms, driving both innovation and execution and various levels of competitions.
+I build intelligent software systems spanning robotics, AI infrastructure, backend services, and autonomous navigation. My work combines ROS2, computer vision, LLM-powered applications, and distributed systems to solve real-world engineering problems.
 
 
 
@@ -15,22 +13,18 @@ As the **Technical Coordinator of JUMTC(Jadavpur University MEchatronics Club)**
 ```mermaid
 mindmap
   root((Skills))
-    ((Core))
-      c++
-      RUST
-      Python
+    ((Languages))
+      Pyton
+      TypeScript
       JavaScript
-      SQL
-      Bash
-      ROS2
-      Embedded
-      Jetson Nano
-    ((Robotics))
-      Rover Systems
-      Drone Systems
-      Pneumatics
-      Kinematics
-      Control
+      C++
+      Rust
+    ((AI))
+      OpenAI
+      RAG Architectures
+      LLM Applications
+      OpenCV
+      Yolo
     ((AI/ML))
       CV
       TensorFlow/Pytorch
