@@ -1,7 +1,7 @@
 <!-- Meet -->
 #  Hi, I'm Abhirup Guha Roy  
 
-###  AI/ML • Web3 • Systems 
+###  Robotics Architect | AI Engineer | Systems Engineer
 
 I'm an engineer pasionate about building intelligent systems that merge **Robotics**, **AI/ML**, **Web3**, **System Engineering** and **Simulation**.
 
