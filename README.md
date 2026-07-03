@@ -20,36 +20,39 @@ mindmap
       C++
       Rust
     ((AI))
-      OpenAI
-      RAG Architectures
+      OpenAI APIs
+      RAG Systems
       LLM Applications
-      OpenCV
-      Yolo
-    ((AI/ML))
-      CV
-      TensorFlow/Pytorch
-      OpenCV
-      Scikit-Learn
-      Pandas/Numpy
-    ((DevOps))
-      Git
+      Langraph
+      MCP
+    ((Infrastructure))
       Docker
-    ((WEB3))
-      React/Next.js
-      Node.js/Express
-      PostgreSQL/MongoDB
-      Smart Contracts
-      DApps
-      Blockchain Systems
-    ((Design))
-      Solidworks
-      Fusion
-    ((Analysis))
-      Ansys
-      Matlab
-    ((Simulation))
+      Linux
+      Git
+      CI/CD
+    ((Robotics))
+      ROS2
+      Navigation
+      SLAM
+      Perception
+      OpenCV
+      Motion Planning
+      Autonomous Systems
+    ((Simulation & Design))
       RoboDK
       Gazebo
+      MATLAB
+      ANSYS
+      Solidworks
+      AutoCAD
+    ((Backend Systems))
+      FastAPI
+      Node.js
+      Express
+      REST APIs
+      PostgresSQL
+      Authentication
+      Microservices
 ```
 
 <p align="center">
